@@ -1,0 +1,367 @@
+*{
+    padding: auto;
+    margin: 0px;
+}
+
+html,body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: white;
+}
+
+.image_1 {
+    background: url(mainpic.jpg);
+    background-position: absolute;
+    background-size: cover;
+    width: 700px;
+    height: 900px;
+    position: absolute;
+    left: 800px;
+   
+    top: 136px;
+    border-radius: 187px;
+}
+
+.image_2 {
+    background: url(logo.jpg);
+    background-position: absolute;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 25px;
+   
+    top: 47px;
+    border-radius: 187px;
+}
+
+.image_3 {
+    background: url(ESIP.jpg);
+    background-position: absolute;
+    background-size: cover;
+    width: 250px;
+    height: 120px;
+    position: absolute;
+    left: 20px;
+   
+    top: 1225px;
+    border-radius: 187px;
+}
+
+.image_4 {
+    background: url(DCI.jpg);
+    background-position: absolute;
+    background-size: cover;
+    width: 250px;
+    height: 120px;
+    position: absolute;
+    left: 20px;
+   
+    top: 1440px;
+    border-radius: 187px;
+}
+
+.image_5 {
+    background: url(FSP.jpg);
+    background-position: absolute;
+    background-size: cover;
+    width: 250px;
+    height: 120px;
+    position: absolute;
+    left: 20px;
+   
+    top: 1640px;
+    border-radius: 187px;
+}
+
+.text_1 {
+    position: absolute;
+    color: rgb(3, 140, 129);
+    width: 100px;
+    height: 80px;
+    left: 150px;
+    top: 45px;
+    font-weight: 650;
+    font-size: 40px;
+    line-height: 50px;
+    font-style: bold;
+}
+
+.text_2 {
+    position: absolute;
+    color: rgb(3, 140, 129);
+    width: 153px;
+    height: 39px;
+    left: 104px;
+    top: 10px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 369px;
+    font-style: bold;
+    text-decoration: underline;
+}
+
+.text_3 {
+    position: absolute;
+    color: black;
+    width: 619px;
+    height: 474px;
+    left: 100px;
+    top: 244px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_4 {
+    position: absolute;
+    color: rgb(3, 140, 129);
+    width: 650px;
+    height: 600px;
+    left: 100px;
+    top: 732px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_5{
+    position: absolute;
+    color: black;
+    width: 650px;
+    height: 600px;
+    left: 100px;
+    top: 780px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+
+}
+
+.text_6 {
+    position: absolute;
+    color:  rgb(3, 140, 129);
+    width: 650px;
+    height: 600px;
+    left: 100px;
+    top: 910px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_7 {
+    position: absolute;
+    color: black;
+    width: 650px;
+    height: 600px;
+    left: 100px;
+    top: 955px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_8 {
+    position: absolute;
+    color:  rgb(3, 140, 129);
+    width: 650px;
+    height: 600px;
+    left: 650px;
+    top: 1120px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_9 {
+    position: absolute;
+    color:  rgb(3, 140, 129);
+    width: 650px;
+    height: 600px;
+    left: 220px;
+    top: 1200px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_10 {
+    position: absolute;
+    color: black;
+    width: 650px;
+    height: 600px;
+    left: 300px;
+    top: 1250px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_11 {
+    position: absolute;
+    color:  rgb(3, 140, 129);
+    width: 650px;
+    height: 600px;
+    left: 220px;
+    top: 1400px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_12 {
+    position: absolute;
+    color: black;
+    width: 650px;
+    height: 600px;
+    left: 300px;
+    top: 1450px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_13 {
+    position: absolute;
+    color:  rgb(3, 140, 129);
+    width: 650px;
+    height: 600px;
+    left: 220px;
+    top: 1600px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.text_14 {
+    position: absolute;
+    color: black;
+    width: 650px;
+    height: 600px;
+    left: 300px;
+    top: 1650px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.home {
+    position: absolute;
+    color: #077e65;
+    width: 90px;
+    height: 39px;
+    left: 720px;
+    top: 61px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.portfolio {
+    position: absolute;
+    color: #84858B;
+    width: 83px;
+    height: 24px;
+    left: 810px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    text-decoration:none;
+}
+
+.book {
+    position: absolute;
+    color: #84858B;
+    width: 100px;
+    height: 24px;
+    left: 910px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.services{
+    position: absolute;
+    color: #84858B;
+    width: 85px;
+    height: 24px;
+    left: 1035px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.about {
+    position: absolute;
+    color: #84858B;
+    width: 60px;
+    height: 24px;
+    left: 1150px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.contact {
+    position: absolute;
+    color: #84858B;
+    width: 78px;
+    height: 24px;
+    left: 1245px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.login {
+    position: absolute;
+    color: #84858B;
+    width: 139px;
+    height: 24px;
+    left: 1350px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+
+
