@@ -114,6 +114,19 @@ html,body {
     text-align: right;
 }
 
+.text_7 {
+    position: absolute;
+    color: rgb(5, 149, 113);
+    width: 500px;
+    height: 80px;
+    left: 150px;
+    top: 65px;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 38px;
+    font-style: bold;
+}
+
 .home {
     position: absolute;
     color: #84858B;
