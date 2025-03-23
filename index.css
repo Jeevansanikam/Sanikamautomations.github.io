@@ -116,13 +116,13 @@ html,body {
 
 .text_7 {
     position: absolute;
-    color: rgb(5, 149, 113);
+    color: black;
     width: 500px;
     height: 80px;
     left: 150px;
-    top: 65px;
-    font-weight: 100;
-    font-size: 18px;
+    top: 72px;
+    font-weight: 300;
+    font-size: 15px;
     line-height: 38px;
     font-style: bold;
 }
